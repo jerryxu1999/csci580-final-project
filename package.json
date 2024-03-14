@@ -1,0 +1,13 @@
+{
+    "devDependencies": {
+        "parcel": "^2.10.2"
+    },
+    "dependencies": {
+        "cannon-es": "^0.20.0",
+        "lil-gui": "^0.19.1",
+        "three": "^0.158.0"
+    },
+    "@parcel/resolver-default": {
+        "packageExports": true
+    }
+}
